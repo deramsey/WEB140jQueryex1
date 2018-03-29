@@ -1,0 +1,20 @@
+body{
+  font-size: 1.8em;
+  font-family: sans-serif;
+}
+
+h1{
+  display: inline-block;
+}
+
+input{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  height: 50px;
+  font-size: 1.2em;
+}
+
+button{
+  height: 50px;
+}
